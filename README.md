@@ -60,6 +60,3 @@ Figma：https://www.figma.com/file/mO4n3bMaTbiaqrjwQryLX6/%E7%84%A1%E9%A1%8C?typ
 ### パスワード変更確認項目
 直に変更できるものではなく、一旦メールなどを介して専用のページで変更する画面遷移になっているか？
 - [x] パスワード
-
-### ER図
-https://drive.google.com/file/d/1p0RXaL9Sq730OB4R3FzMrNQ3KdvZk4nF/view?usp=sharing
